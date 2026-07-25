@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/config-01-endpoint"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/config-01-endpoint": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/config-01-endpoint"
+  ]
+}
